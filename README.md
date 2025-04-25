@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Crypto Price Tracker
 
 ## Overview
@@ -57,3 +58,6 @@ Include a 2-5 minute walkthrough video or GIF demonstrating:
 
 ## License
 MIT License
+=======
+# realtime-crypto-tracker
+>>>>>>> 488bb4ccf3bf66c2d31998246a6084d5fca7c566
